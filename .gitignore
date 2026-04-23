@@ -2,3 +2,10 @@
 *.log
 .code_config/
 grader/
+examenes/parcial2/MiEntornoParcial2/
+ejemplos/python/mivenv/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
